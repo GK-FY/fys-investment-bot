@@ -27,7 +27,7 @@ const qrcode = require('qrcode');
 // -----------------------------------
 
 // The bot’s own WhatsApp number (digits only, no plus sign).
-const BOT_PHONE = '254700363422'; 
+const BOT_PHONE = '254780015238'; 
 const SUPER_ADMIN = '254701339573'; // Super Admin number
 
 // Start with Super Admin in admin list.
